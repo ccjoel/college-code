@@ -1,0 +1,2 @@
+Este es el archivo del codigo fuente correcto. El otro fue un error de todos los intentos en progreso.
+El programa toma el input del file entrada.txt y responde en el salida.txt como en el trabajo anterior.
