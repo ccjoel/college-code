@@ -1,0 +1,6 @@
+Requirements
+
+run on python2
+need to install pygame (brew on osx, or download directly)
+
+commented out music since was getting conflicts on osx

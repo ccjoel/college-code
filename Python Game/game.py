@@ -119,8 +119,8 @@ class Game():
 		self.mypicture = self.player.getImage()
 		
 		#MUSIC!
-		pygame.mixer.music.load('dark.mp3')
-		pygame.mixer.music.play(-1)
+		#pygame.mixer.music.load('dark.mp3')
+		#pygame.mixer.music.play(-1)
  
 		# -------- Main Game Loop -----------
 		while self.done==False:
